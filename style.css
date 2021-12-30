@@ -1,0 +1,38 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    width: 70%;
+    font-size:24px;
+    margin: 10;
+    border-radius: 45px;
+}
+#Play
+{
+font-size: 20px;
+}
+#no_of_objects, #status
+{
+font-size: 25px;
+}
+.footer
+{
+position: fixed;
+width: 100%;
+background-color: rgb(167, 253, 6);
+color: rgb(253, 4, 4);
+font-size: 30px;
+bottom: 0;
+line-height: 3;
+text-align: center;
+border-radius: 75px;
+}
+canvas
+{
+border:2px solid rgb(78, 11, 236);
+border-radius: 75;
+box-shadow:5px 5px 5px rgb(29, 28, 28);
+margin-top: 90px;
+}
